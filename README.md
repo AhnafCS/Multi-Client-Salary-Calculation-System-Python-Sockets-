@@ -10,13 +10,13 @@ Clients can send multiple requests in one session and terminate the connection b
 
 Features:
 
->Multi-client handling via threading
+-Multi-client handling via threading
 
->Custom message framing with fixed-length headers
+-Custom message framing with fixed-length headers
 
->Clean message sending and receiving functions
+-Clean message sending and receiving functions
 
->Termination with "Disconnect" command
+-Termination with "Disconnect" command
 
 Usage:
 
